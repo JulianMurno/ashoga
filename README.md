@@ -47,8 +47,8 @@ Con el entorno ya configurado nos dirigimos a nuestra terminal y ejecutamos `pnp
 Una vez levantado el sistema, se abre el login. Para que la base de datos crea un usuario predeterminado, se aprieta el boton 'INIT DB'
 Se crea el usuario:
 email: demo@gmail.com
-password {cualquier contrasña}
+password: 12345678
 
 ## Una vez iniciado sesión...
 
-Apretar el boton que se encuentra en la parte inferior derecha 'CREATE DEFAULT TASKS'
+Apretar el boton que se encuentra en la parte inferior derecha 'CREATE DEFAULT TASKS' # en el caso de production.
